@@ -34,3 +34,8 @@ html {
   box-shadow: 0 .1em .3em #000;
   color: #555;
 }
+
+menu li {
+  display: inline-block;
+  list-style-type: none;
+}
